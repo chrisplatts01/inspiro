@@ -1,0 +1,7 @@
+#Ignore these
+*.DS_Store
+*.log
+node_modules/
+
+# Include these
+!.gitignore
